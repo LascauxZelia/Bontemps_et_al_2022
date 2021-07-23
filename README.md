@@ -16,6 +16,9 @@ Community assembly processes are complex and understanding them represent a chal
 * βeta Nearest Taxon Index (βNTI)
 * Bray-Curtis-based Raup-Crick index (RCBray)
 
+## R version
+R 4.0.2
+
 ## Library 
 * library(phyloseq)
 * library(minpack.lm)
