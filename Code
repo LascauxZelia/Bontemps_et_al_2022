@@ -121,7 +121,7 @@ data.scores$Inter = OTU$Interaction
     A <- as.data.frame(A)
     colnames(A) <- c('p', 'freq', 'freq.pred', 'pred.lower', 'pred.uper', 'binomial.pred', 'binomial.lower', 'binomial.uper')
 
-#BNTI (Stegen et al. 2013).
+#BNTI (Stegen et al. 2013, https://doi.org/10.1038/ismej.2013.93).
 require(picante)
     
 setwd("~/")
